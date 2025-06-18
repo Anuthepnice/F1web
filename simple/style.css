@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: a;
+    box-sizing: border-box;
+}
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.hfindex{
+    background-color:red;
+    color: white;
+    padding: 20px 0;
+    text-align:left;
+    left: 10px;
+}
+.Tapmanu {
+  background-color: red;
+  padding: 20px;
+  text-align: left;
+}
+.Tapmanu > a {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 0 20px;
+}
+.Signin{
+     background-color: rgb(255, 255, 255);
+     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     padding: 10px;
+     margin: 10px;
+     text-align: left;
+}
+.Personal{
+    background-color: rgb(48, 47, 47);
+    text-align: center;
+    color: aliceblue;
+    padding: 10px;
+    margin: -1px;
+}
+.hfsigin{
+    background-color:rgb(31, 30, 30);
+    color: white;
+    padding: 20px 0;
+    text-align:left;
+    left: 10px;
+}
+.S1{
+     background-color: darkgrey;
+     text-align: center;
+}
+.visibleactive{
+    background-color: rgb(32, 36, 36);
+    padding: 15px 25px; 
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+    text-decoration: none;
+    margin: 20px;
+}
+.Account{
+    text-align: center;
+    font-style:oblique;
+    color: #000000;
+}
+label {
+  font-size: 16px;
+  color: #000000;
+  font-weight: bold;
+  background-color: #f0f0f0;
+  padding: 8px 12px;
+  border-radius: 6px;
+  margin: 10px 0;
+  display: inline-block;
+  margin-bottom: 10px;
+  text-align:  center;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+.buton{
+  margin: 20px 0;
+}
+.center-container {
+  text-align: center;
+  justify-content: center; /* จัดกลางแนวนอน */
+  align-items: center;     /* จัดกลางแนวตั้ง */
+  height: 700px;
+}
+.HRes{
+    background-color:red;
+    color: white;
+    padding: 20px 0;
+    text-align:left;
+    left: 10px;
+}
+.containerr{
+    text-align: center;
+    justify-content: center; /* จัดกลางแนวนอน */
+    align-items: center;     /* จัดกลางแนวตั้ง */
+    height: 700px;
+}
+.barManu:hover{
+    background-color: #000000;
+}
+.logo{
+    text-align: left;
+}
+.container {
+  width: 100%;
+  padding-left: 12px;
+  padding-right: 12px;
+  margin-left: auto;
+  margin-right: auto;
+}
